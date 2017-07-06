@@ -1,5 +1,7 @@
 /*
-
+Reference to the board I use to upload this file is this:
+http://www.instructables.com/id/ESP8266-MPSM-v2-DevBoard-MAINS-WIFI-Web-Power-Swit/
+The projects acts both lie a web server and an MQTT Client
  It connects to an MQTT server then:
   - on 0 switches off relay
   - on 1 switches on relay
